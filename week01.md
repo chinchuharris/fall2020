@@ -23,8 +23,8 @@
     * Supervised learning introductory concepts -- classification and regression
     * Introduction to object-oriented programming with Python
 * [lab02_perceptron.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab02_perceptron.ipynb)
-    * This is a stripped-down version of parts of [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) with a link that automatically opens in Colab.
-    * For the first class, focus on the perceptron (first few cells) of ch01.ipynb
+    * This is a stripped-down version parts of [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) with a link that automatically opens in Colab.
+    * Focus is on the perceptron (first few cells of ch02.ipynb)
     * Detailed explanations are in the book
 
 # Lab #1 Homework
