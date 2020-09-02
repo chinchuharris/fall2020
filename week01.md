@@ -23,7 +23,7 @@
     * Supervised learning introductory concepts -- classification and regression
     * Introduction to object-oriented programming with Python
 * [lab02_perceptron.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab02_perceptron.ipynb)
-    * This is a stripped-down version parts of [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) with a link that automatically opens in Colab.
+    * This is a stripped-down version parts of [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/code/ch01/ch01.ipynb) with a link that automatically opens in Colab.
     * Focus is on the perceptron (first few cells of ch02.ipynb)
     * Detailed explanations are in the book
 
@@ -38,7 +38,7 @@
 
 ## Lab #2 Homework
 
-* QUESTION #1: The two features used to train the perceptron in [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) are linearly separable. Use two Iris features that are not linearly separable to demonstrate that the perceptron does not converge for non-separable classes. Make sure to investigate different values of the hyperparameters `eta` and `n_iter`.
+* QUESTION #1: The two features used to train the perceptron in [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/code/ch01/ch01.ipynb) are linearly separable. Use two Iris features that are not linearly separable to demonstrate that the perceptron does not converge for non-separable classes. Make sure to investigate different values of the hyperparameters `eta` and `n_iter`.
 
 ## Reading for Week #2
 
