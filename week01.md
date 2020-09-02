@@ -1,10 +1,6 @@
 
 # Week 1 -- Introduction to Machine Learning
 
-## Related reading
-
-* Rasckha & Mirjalili, 3rd Edition, Chapters 1 & 2
-
 ## Notebooks
 
 * [week01_introduction.ipynb](https://github.com/umbcdata602/fall2020/blob/master/week01_introduction.ipynb)
