@@ -34,11 +34,11 @@
     * Choose a covariance matrix that makes the scatterplot uniform in all directions.
 
 * QUESTION #2: The notebook computes sample mean two ways, a slow way using a Python `for` loop, and a fast way using numpy's vectorized `np.average` method. 
-    * How big does $n$ have to get before you notice the difference?
+    * How big does `n` have to get before you notice the difference?
 
 ## Lab #2 Homework
 
-* QUESTION #1: The two features used to train the perceptron in [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) are linearly separable. Use two Iris features that are not linearly separable to demonstrate that the perceptron does not converge for non-separable classes. Make sure to investigate different values of the hyperparameters eta and n_iter.
+* QUESTION #1: The two features used to train the perceptron in [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) are linearly separable. Use two Iris features that are not linearly separable to demonstrate that the perceptron does not converge for non-separable classes. Make sure to investigate different values of the hyperparameters `eta` and `n_iter`.
 
 ## Reading for Week #2
 
