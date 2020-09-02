@@ -9,7 +9,7 @@
 
 * [week01_introduction.ipynb](https://github.com/umbcdata602/fall2020/blob/master/week01_introduction.ipynb)
     * Use the link at the top of the notebook to open it automatically in Google Colab.
-    * Based on [Raschka ch01.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/code/ch01/ch01.ipynb) -- github notebook
+    * Based on [Raschka ch01.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch01/ch01.ipynb)
     * Introductory material is based on the reading from Chapter 1 of Raschka & Mirjalili, 3rd Edition.
     * Supervised, unsupervised, reinforcement learning
     * Predicting class labels
@@ -23,7 +23,7 @@
     * Supervised learning introductory concepts -- classification and regression
     * Introduction to object-oriented programming with Python
 * [lab02_perceptron.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab02_perceptron.ipynb)
-    * This is a stripped-down version parts of [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/code/ch01/ch01.ipynb) with a link that automatically opens in Colab.
+    * This is a stripped-down version parts of [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch02/ch02.ipynb)
     * Focus is on the perceptron (first few cells of ch02.ipynb)
     * Detailed explanations are in the book
 
