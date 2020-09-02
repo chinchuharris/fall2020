@@ -16,7 +16,7 @@
     * Roadmap for building machine learning systems
     * Basic terminology for the Iris dataset
     * Some of this should be review from 601, but don't worry about it if you haven't seen it before
-* [lab01_tooset.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab01_toolset.ipynb)
+* [lab01_toolset.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab01_toolset.ipynb)
     * Use the link at the top of the notebook to open it automatically in Google Colab.
     * Review topics using Numpy, Pandas, Matplotlib -- demos using the classic Iris dataset
     * Random number generators and 2-D covariance
