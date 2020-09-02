@@ -29,7 +29,7 @@
 
 ## Lab #1 Homework
 
-* QUESTION #1: The multivariate random number generator uses a covariance that creates correlated features. You can see this in the scatterplot because the sample distributions is oriented from lower left to upper right.
+* QUESTION #1: The multivariate random number generator uses a covariance that creates correlated features. You can see this in the scatterplot because the sample distribution is oriented from lower left to upper right.
     * Choose a covariance matrix that orients the scatterplot from upper left to lower right.
     * Choose a covariance matrix that makes the scatterplot uniform in all directions.
 
