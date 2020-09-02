@@ -38,7 +38,7 @@
 
 ## Lab #2 Homework
 
-* QUESTION #1: The two features used to train the perceptron in [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/code/ch01/ch01.ipynb) are linearly separable. Use two Iris features that are not linearly separable to demonstrate that the perceptron does not converge for non-separable classes. Make sure to investigate different values of the hyperparameters `eta` and `n_iter`.
+* QUESTION #1: The two features used to train the perceptron in the lab are linearly separable. Use two Iris features that are not linearly separable to demonstrate that the perceptron does not converge for non-separable classes. Make sure to investigate different values of the hyperparameters `eta` and `n_iter`.
 
 ## Reading for Week #2
 
