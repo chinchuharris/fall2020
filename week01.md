@@ -7,19 +7,15 @@
 
 ## Notebooks
 
-* [Raschka ch01.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) -- github notebook
-    * A high-level overview of machine learning
+* [week01_introduction.ipynb](https://github.com/umbcdata602/fall2020/blob/master/week01_introduction.ipynb)
+    * Use the link at the top of the notebook to open it automatically in Google Colab.
+    * Based on [Raschka ch01.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/code/ch01/ch01.ipynb) -- github notebook
+    * Introductory material is based on the reading from Chapter 1 of Raschka & Mirjalili, 3rd Edition.
     * Supervised, unsupervised, reinforcement learning
     * Predicting class labels
     * Roadmap for building machine learning systems
     * Basic terminology for the Iris dataset
     * Some of this should be review from 601, but don't worry about it if you haven't seen it before
-* [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb)
-    * For the first class, focus on the perceptron (first few cells)
-    * Detailed explanations are in the book
-* [week01_introduction.ipynb](https://github.com/umbcdata602/fall2020/blob/master/week01_introduction.ipynb)
-    * Use the link at the top of the notebook to open it automatically in Google Colab.
-    * Introductory material is based on the reading from Chapter 1.
 * [lab01_tooset.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab01_toolset.ipynb)
     * Use the link at the top of the notebook to open it automatically in Google Colab.
     * Review topics using Numpy, Pandas, Matplotlib -- demos using the classic Iris dataset
@@ -27,7 +23,9 @@
     * Supervised learning introductory concepts -- classification and regression
     * Introduction to object-oriented programming with Python
 * [lab02_perceptron.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab02_perceptron.ipynb)
-    * This is a stripped-down version of [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) with a link that automatically opens in Colab.
+    * This is a stripped-down version of parts of [Raschka ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch01/ch01.ipynb) with a link that automatically opens in Colab.
+    * For the first class, focus on the perceptron (first few cells) of ch01.ipynb
+    * Detailed explanations are in the book
 
 # Lab #1 Homework
 
