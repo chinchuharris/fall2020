@@ -36,4 +36,11 @@ Complete the following 2 exercises before class #3 on 15 Sep:
 
 ## Study guide for Week #3
 
-* TBD
+* Stochastic vs batch gradient descent
+* SVC vs logistic regression
+* Naive Bayes
+* Overfitting vs underfitting
+* Decision trees
+* KNN
+* Curse of dimensionality
+* Regularization
