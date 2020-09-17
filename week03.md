@@ -1,9 +1,39 @@
 
 # Week 3 -- Dimensionality reduction (17 Sep 2020)
 
-## Assignment
+## Assignments
 
-* TBD
+1. KNN and overfitting
+    * Open [lab_knn.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab_knn.ipynb) in Colab
+    * Use the following code to create a dataset with `make_blobs`
+    ```
+    from sklearn.datasets import make_blobs
+    from matplotlib.colors import ListedColormap
+
+    plt.rcParams.update({'font.size': 16})
+    colors = ('red', 'blue')
+    cmap = ListedColormap(colors)
+
+    std_true = 5.0    # original: 1.5
+    n_samples = 150   # original: 100
+
+    X, y = make_blobs(n_samples, 2, centers=2, random_state=2, cluster_std=std_true)
+
+    plt.scatter(X[:, 0], X[:, 1], c=y, s=50, cmap=cmap, alpha=.7);
+    ```
+    * Use the `train_test_split` method in scikit-learn to split the data with `test_size=0.3`
+    * Use the `StandardScaler` in scikit-learn to scale the data
+    * Use the `KNeighborsClassifier` class in scikit-learn create and train a classifier. 
+    * Plot the decision region and investigate different values of K.
+    * Use the confusion_matrix method in scikit-learn to demonstrate that the model overfits with K=1.
+2. Curse of dimensionality
+    * Open [lab_curse_of_dimensionality.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab_curse_of_dimensionality.ipynb) in Colab
+    * In 1-D, find the element of `samples[:,0]` that is closes to the origin `x1=0`
+        * In the plot provided in the notebook, add a line from sample to the 1-D origin `x1=0`
+        * Note: For this 1-D example, your solution should be independent of the 2nd coordinate, `x2`.
+    * In 2-D, find the element in `samples` that is closes to the origin `[x1, x2]=[0,0]`
+        * Plot the a line from that sample to the origin.
+    * Explain how this exercise demonstrates the curse of dimensionality.
 
 ## Reading
 
