@@ -23,16 +23,19 @@
     ```
     * Use the `train_test_split` method in scikit-learn to split the data with `test_size=0.3`
     * Use the `StandardScaler` in scikit-learn to scale the data
-    * Use the `KNeighborsClassifier` class in scikit-learn create and train a classifier. 
+    * Use the `KNeighborsClassifier` class in scikit-learn to create and train a classifier. 
     * Plot the decision region and investigate different values of K.
     * Use the confusion_matrix method in scikit-learn to demonstrate that the model overfits with K=1.
 2. Curse of dimensionality
     * Open [lab_curse_of_dimensionality.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab_curse_of_dimensionality.ipynb) in Colab
-    * In 1-D, find the element of `samples[:,0]` that is closes to the origin `x1=0`
-        * In the plot provided in the notebook, add a line from sample to the 1-D origin `x1=0`
+    * Use the `NearestNeighbor` class in scikit-learn for the following 1-D and 2-D calculations.
+    * In 1-D, find the sample in the 1-D dataset `samples[:,0]` that is closes to the origin `x1=0`
+        * Plot the result as follows:
+        * Create a copy of the plot provided in the notebook, and add a line from nearest sample to the 1-D origin `x1=0`
         * Note: For this 1-D example, your solution should be independent of the 2nd coordinate, `x2`.
     * In 2-D, find the element in `samples` that is closes to the origin `[x1, x2]=[0,0]`
-        * Plot the a line from that sample to the origin.
+        * Plot the result as follows:
+        * Add a line to the plot you created in the 1-D case. It should extend from nearest sample in 2-D to the 2-D origin.
     * Explain how this exercise demonstrates the curse of dimensionality.
 
 ## Reading
