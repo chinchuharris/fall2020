@@ -1,7 +1,9 @@
 
-# Week 3 -- Dimensionality reduction (17 Sep 2020)
+# Week 3 -- Dimensionality reduction (23 Sep 2020)
 
 ## Assignment
+
+Complete the following 2 exercises before class #3 on 23 Sep.
 
 1. KNN and overfitting
     * Open [lab_knn.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab_knn.ipynb) in Colab
