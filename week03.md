@@ -29,14 +29,16 @@
 2. Curse of dimensionality
     * Open [lab_curse_of_dimensionality.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab_curse_of_dimensionality.ipynb) in Colab
     * Use the `NearestNeighbor` class in scikit-learn for the following 1-D and 2-D calculations.
-    * In 1-D, find the sample in the 1-D dataset `samples[:,0]` that is closes to the origin `x1=0`
-        * Plot the result as follows:
-        * Create a copy of the plot provided in the notebook, and add a line from nearest sample to the 1-D origin `x1=0`
+    * In 1-D, find the sample in the 1-D dataset `samples[:,0]` that is nearest to the origin `x1=0`
+    * Plot the result as follows:
+        * Create a copy of the plot provided in the notebook, 
+        * Add a line extending from the nearest sample in 1-D to the origin `x1=0` in 1-D.
         * Note: For this 1-D example, your solution should be independent of the 2nd coordinate, `x2`.
-    * In 2-D, find the element in `samples` that is closes to the origin `[x1, x2]=[0,0]`
-        * Plot the result as follows:
-        * Add a line to the plot you created in the 1-D case. It should extend from nearest sample in 2-D to the 2-D origin.
-    * Explain how this exercise demonstrates the curse of dimensionality.
+    * In 2-D, find the element in `samples` that is closes to the origin `[x1, x2]=[0,0]` in 2-D.
+    * Plot the result as follows:
+        * Add a line to the plot you just created. 
+        * In this 2-D case, the line should extend from nearest sample in 2-D to the origin in 2-D..
+    * Explain how this exercise demonstrates that adding dimensions leads to sparse sampling.
 
 ## Reading
 
