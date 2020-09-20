@@ -51,4 +51,17 @@ Make sure to look at associated Jupyter notebooks in github, and try running the
 
 ## Study guide for Week #3
 
-* TBD
+* Curse of dimensionality
+* Regularization -- L1 vs L2
+* Scaling -- min/max vs zero mean/unit variance
+* Feature selection -- greedy vs exhaustive algorithms
+* High variance models -- the options
+* Feature selection -- objectives
+* Feature scaling -- min/max vs mean/variance
+* Regularization -- L1 vs L2
+* Sequential feature selection algorithms -- pros and cons
+* Feature importance with random forest -- pros and cons
+* PCA -- role of covariance matrix
+* Feature transformation and principal components
+* LDA vs PCA
+* Kernel PCA and the kernel trick
