@@ -1,5 +1,5 @@
 
-# Week 2 -- Logistic Regression (8 Sep 2020)
+# Week 2 -- Classifiers (8 Sep 2020)
 
 ## Notebooks
 
