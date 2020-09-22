@@ -1,5 +1,6 @@
 # Data 602 -- Fall 2020
 
+* [colab instructions](./colab.md)
 * [project guidance](./projects.md)
 
 The following items contain reading and assignments
