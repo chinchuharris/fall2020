@@ -1,5 +1,6 @@
+# Colab howto
 
-1. Open a notebook in colab.research.google.com
+1. Open a notebook in Colab (colab.research.google.com)
 2. "Sign In" with your umbc.edu email and password
 3. Open to the "File" dropdown menu in your browser.
 4. Select "Save a copy in Drive"
