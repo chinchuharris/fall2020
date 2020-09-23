@@ -1,5 +1,5 @@
 
-# Week 5 -- Model evaluation and hyperparameter tuning (29 Sep 2020)
+# Week 5 -- Model evaluation (29 Sep 2020)
 
 ## Assignment to be completed before class on 29 Sep 2020
 
