@@ -5,7 +5,7 @@
 
 TBD
 
-## Reading for Week #5 quiz
+## Reading
 
 * Rasckha & Mirjalili, Chapter 6
 
