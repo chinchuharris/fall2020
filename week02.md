@@ -1,46 +1,38 @@
 
-# Week 2 -- Classifiers (8 Sep 2020)
+# Week 2 -- Logistic regression (8 Sep 2020)
 
-## Notebooks
+## Lab #1 Assignment (to be completed before class on 8 Sep 2020)
 
-* [lab02_perceptron.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab02_perceptron.ipynb)
-* [lab03_adaline.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab03_adaline.ipynb)
-* [lab04_logistic_regression.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab04_logistic_regression.ipynb)
+* QUESTION #1: The multivariate random number generator uses a covariance that creates correlated features. You can see this in the scatterplot because the sample distribution is oriented from lower left to upper right.
+    * Choose a covariance matrix that orients the scatterplot from upper left to lower right.
+    * Choose a covariance matrix that makes the scatterplot uniform in all directions.
 
-## Assignment
+* QUESTION #2: The notebook computes sample mean two ways, a slow way using a Python `for` loop, and a fast way using numpy's vectorized `np.average` method. 
+    * How big does `n` have to get before you notice the difference?
 
-Complete the following 2 exercises before class #3 on 15 Sep:
+## Lab #2 Assignment (to be completed before class on 8 Sep 2020)
 
-1. Adaline in 1-D
-    * Start with [lab03_adaline.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab03_adaline.ipynb)
-        * We performed classification with 2 classes and 2 features
-        * In this assignment, you'll do the relatively simple classification task with 1 feature
-    * Perform classification of the iris dataset for setosa and versicolor using petal length.
-    * Adapt the procedure in the notebook, and include 3 plots.
-    * Create a plot of the data
-    * Create a plot of squared error vs epoch
-    * Create a third plot that includes all of the following:
-        * The data
-        * Predictions for a range of inputs that include and extend slightly beyond the data
-        * The activation function
-        * The decision boundary used to predict class membership
-2. Logistic regression in 1-D
-    * Start with [lab04_logistic_regression.ipynb](https://github.com/umbcdata602/fall2020/blob/master/lab04_logistic_regression.ipynb)
-    * Repeat the analysis above for logistic regression in 1D
+* QUESTION #1: The two features used to train the perceptron in the lab are linearly separable. Use two Iris features that are not linearly separable to demonstrate that the perceptron does not converge for non-separable classes. Make sure to investigate different values of the hyperparameters `eta` and `n_iter`.
 
-## Reading
+## Reading for Week #2
 
+* Rasckha & Mirjalili, Chapter 2: Training simple ML algorithms for classification
+    * The entire chapter
 * Rasckha & Mirjalili, Chapter 3: Tour of ML classifiers using scikit-learn
-    * The rest of the chapter
-    * Look at associated Jupyter notebooks in github
+    * Section 1: Choosing a classification algorithm
+    * Section 2: First steps with scikit-learn -- training a perceptron
+    * Section 3: Modeling class probabilities via logistic regression
 
-## Study guide for Week #3
+## Study guide for Week #2 quiz
 
-* Stochastic vs batch gradient descent
-* SVC vs logistic regression
-* Naive Bayes
-* Overfitting vs underfitting
-* Decision trees
-* KNN
-* Curse of dimensionality
-* Regularization
+* perceptron convergence
+* decision region
+* separating hyperplane
+* difference between perceptron and adaline
+* difference between adaline and logistic regression
+* odds ratio
+* logit
+* sigmoid function
+* activation function
+* threshold function
+* cost function
