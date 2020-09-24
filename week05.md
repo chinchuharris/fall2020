@@ -1,7 +1,7 @@
 
 # Week 5 -- Model evaluation (29 Sep 2020)
 
-## Assignment
+## Assignment (due 29 Sep)
 
 Submit a link to your shared colab notebook(s) before class on 29 September.
 
