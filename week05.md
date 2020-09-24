@@ -17,7 +17,7 @@ Submit the link(s) to your shared colab notebook(s) in Blackboard before class o
     * Contrast your results with Raschka analysis of the Wine dataset in Chapter 3.
     * Discuss the dimensionality of dataset.
 
-We'll discuss solutions in class. Late submissions will be accepted, and they'll be marked late. For the best possible ggrade, a good strategy is to submit what's you've done before class then, if necessary, submit a corrected version after class.
+We'll discuss solutions in class. Late submissions will be accepted, and they'll be marked late. For the best possible grade, a good strategy is to submit what's you've done before class then, if necessary, submit a corrected version after class.
 
 ## Reading
 
