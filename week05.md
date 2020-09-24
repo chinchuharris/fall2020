@@ -20,9 +20,12 @@ Submit a link to your shared colab notebook(s) before class on 29 September.
 ## Reading
 
 * Rasckha & Mirjalili, Chapter 6
+* Raschka [ch06.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch06/ch06.ipynb) -- github
 
 ## Study guide for Week #5 quiz
 
+* Familiarize yourself with [ch06.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch06/ch06.ipynb). 
+    * Some questions on the quiz will refer to this notebook.
 * Cross validation
 * Stratified splits
 * Bias-variance trade-off
