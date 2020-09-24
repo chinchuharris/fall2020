@@ -20,7 +20,7 @@ Submit a link to your shared colab notebook(s) before class on 29 September.
 ## Reading
 
 * Rasckha & Mirjalili, Chapter 6
-* Raschka [ch06.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch06/ch06.ipynb) -- github
+* Raschka's [ch06.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch06/ch06.ipynb) on github
 
 ## Study guide for Week #5 quiz
 
