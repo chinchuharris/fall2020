@@ -3,7 +3,7 @@
 
 ## Assignment (due 29 Sep)
 
-Submit a link to your shared colab notebook(s) before class on 29 September.
+Submit the link(s) to your shared colab notebook(s) in Blackboard before class on 29 September.
 
 1. Raschka and Geron both investigate a decision tree model with the Iris dataset. Explain why their results differ.
     * Rachka's [ch03.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb)
@@ -16,6 +16,8 @@ Submit a link to your shared colab notebook(s) before class on 29 September.
     * Create a scatterplot of the class distribution for the first two eigenvectors.
     * Contrast your results with Raschka analysis of the Wine dataset in Chapter 3.
     * Discuss the dimensionality of dataset.
+
+We'll discuss solutions in class. Late submissions will be accepted, and they'll be marked late. For the best possible ggrade, a good strategy is to submit what's you've done before class then, if necessary, submit a corrected version after class.
 
 ## Reading
 
