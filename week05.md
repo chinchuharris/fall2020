@@ -1,7 +1,9 @@
 
 # Week 5 -- Model evaluation (29 Sep 2020)
 
-## Assignment to be completed before class on 29 Sep 2020
+## Assignment
+
+Submit a link to your shared colab notebook(s) before class on 29 September.
 
 1. Raschka and Geron both investigate a decision tree model with the Iris dataset. Explain why their results differ.
     * Rachka's [ch03.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb)
