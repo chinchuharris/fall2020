@@ -24,15 +24,17 @@ Be prepared to present your notebook and discuss your results during class.
 
 ## Study guide
 
-* Familiarize yourself with [ch08.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch08/ch08.ipynb).
+* familiarize yourself with [ch08.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch08/ch08.ipynb).
     * Some questions on the quiz will refer to this notebook.
 * sentiment analysis
 * tf-idf
 * bag of words
 * out-of-core learning
 * topic modeling
-* latent Dirichlet allocation
-* CountVectorizer
+* Latent Dirichlet Allocation (LDA)
 * stop word
-* maximum document frequency (max_df)
-
+* `CountVectorizer`
+    * maximum words considered (`max_features`)
+    * maximum document frequency (`max_df`)
+* `LatentDirichletAllocation`
+    * number of topics (`n_components`)
