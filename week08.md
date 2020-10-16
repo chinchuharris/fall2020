@@ -13,6 +13,5 @@ TBD
 
 * Familiarize yourself with [ch10.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch10/ch10.ipynb).
     * Some questions on the quiz will refer to this notebook.
-* Remainder of the study guide
-
-TBD
+    * We'll also be working closely with the code in class.
+* Remainder of the study guide: TBD
