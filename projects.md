@@ -1,9 +1,12 @@
 
 # Projects
 
-* These are projects to you to research existing literature, not capstone projects. 
+* These are projects designed to get you to research existing literature.
     * You should learn something new, practice what you learn and explain it in your own words.
     * Choose something of interest to you and strive to make it interesting for your classmates.
+* New research
+    * You can bring in a new dataset if you like, but it's not required.
+    * If you take this approach, then you must use publicly available data.
 * You can work independently or in groups of 2 or 3.
 * DUE DATE: 15 Dec
     * Projects will be due as shared Colab notebooks on the date/time of the final exam.
