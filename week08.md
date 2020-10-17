@@ -7,9 +7,9 @@
 
 ## Assignment (submit before class on 20 Oct 2020)
 
-* Read the [project guidance](./projects.md) and submit a project idea.
+* Read the [project guidance](./projects.md) and submit a project idea (a couple sentences).
 * Include at least one link to a primary reference for your project.
-* If you're going to do new work on a new dataset, provide a link to that dataset.
+* If you're going to do original work on a new dataset, then also provide a link to that dataset.
 
 ## Study guide
 
