@@ -7,13 +7,14 @@ Make progress on your projects.
 
 Objective for the submission on 10 Nov: Link to a clean and concise Colab notebook that includes:
 
-1. Concise description of the central hypothese(s)s that you'd like to test, or questions you'd like to answer, with your analysis.
+1. Brief description of the central hypothesis (hypotheses) that you'd like to test, and/or question(s) you'd like to answer, with your analysis.
 2. One to three figures, with caption and accompanying code, that summarize the EDA of your dataset.
 
-You are not expected to submit a completed notebook, or a working notebook with a lot of experimentation. 
+You are not expected to submit a completed notebook, or a working notebook 
+with a lot of experimentation and undocumented code. 
 Rather, you should submit a well documented summary statement and summary of your exploratory data analysis. 
-You will surely have have more analysis to do, and your results may change. You don't need to include
-any results at this stage, just simple, clear EDA.
+You will surely have have more analysis to do, and things may change as you learn more. You don't need to include
+any results at this stage.
 
 ## Reading and Study Guide
 
