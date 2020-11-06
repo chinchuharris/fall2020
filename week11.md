@@ -16,6 +16,8 @@ Rather, you should submit a well documented summary statement and summary of you
 You will surely have have more analysis to do, and things may change as you learn more. You don't need to include
 any results at this stage.
 
+* [This document](https://github.com/umbcdata602/howtos/blob/master/colab.md) has instructions for loading data into Colab.
+
 ## Reading and Study Guide
 
 * Rasckha & Mirjalili, Chapter 13 & parts of 14
