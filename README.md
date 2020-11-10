@@ -1,9 +1,7 @@
 # Data 602 -- Fall 2020
 
-* [colab basic instructions](./colab.md)
+* [colab howtos](./colab.md)
     * includes instructions for loading your data into colab
-* [colab bigger data howto](colab_data.ipynb) (uses pydrive)
-    * look here if you have a large dataset
 * [project guidance](./projects.md)
 
 The following items contain reading and assignments
