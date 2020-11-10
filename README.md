@@ -1,6 +1,6 @@
 # Data 602 -- Fall 2020
 
-* [colab data howto](colab_data.md)
+* [colab data howto](colab_data.ipynb)
 * [colab basic instructions](./colab.md)
 * [project guidance](./projects.md)
 
