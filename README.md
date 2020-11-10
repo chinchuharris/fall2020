@@ -2,8 +2,8 @@
 
 * [colab basic instructions](./colab.md)
     * includes instructions for loading your data into colab
-* [colab big-data howto](colab_data.ipynb)
-    * look here if you have a bigger dataset
+* [colab bigger data howto](colab_data.ipynb) (uses pydrive)
+    * look here if you have a large dataset
 * [project guidance](./projects.md)
 
 The following items contain reading and assignments
