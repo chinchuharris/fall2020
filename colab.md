@@ -69,4 +69,4 @@ You can load large files from your [UMBC Google Drive](https://wiki.umbc.edu/dis
 [Google documentation](https://colab.research.google.com/notebooks/io.ipynb) describes several methods.
 This approach works for larger files, but requires authentication
 that can expose all the data in your folder, so be careful.
-Here's an example: https://github.com/umbcdata602/howtos/blob/master/colab_data.ipynb
+Here's an example: [colab_data.ipynb](colab_data.ipynb)
