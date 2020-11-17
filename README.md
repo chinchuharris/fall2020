@@ -6,6 +6,7 @@
 
 The following items contain reading and assignments
 
+* [week 12](./week12.md) -- 17 Nov
 * [week 11](./week11.md) -- 10 Nov
 * [week 10](./week10.md) -- 3 Nov
 * [week 9](./week09.md) -- 27 Oct
