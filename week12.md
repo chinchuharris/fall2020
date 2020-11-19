@@ -1,5 +1,5 @@
 
-# Week 11 -- (17 Nov 2020)
+# Week 12 -- (17 Nov 2020)
 
 Convolutional Neural Networks (CNNs)
 
